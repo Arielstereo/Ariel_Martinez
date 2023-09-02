@@ -1,6 +1,4 @@
-# 💫About Me :
-<h1 align="center">Hi 👋, I'm Ariel Martinez</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+![My Portfolio](./public/img.png)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-react23.vercel.app/](https://portfolio-react23.vercel.app/)
 
